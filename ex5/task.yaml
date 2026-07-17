@@ -10,7 +10,7 @@ data:
     <head><title>GitOps Demo</title></head>
     <body style="background-color: #2d3436; color: white; text-align: center; padding-top: 50px;">
       <h1>Hello Class 1125! You are the best</h1>
-      <p>Deployed via ArgoCD</p>
+      <p>Deployed via ArgoCD $ you <3</p>
     </body>
     </html>
 ---
